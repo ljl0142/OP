@@ -1,5 +1,5 @@
 # OP
-implement an operating system-2026 Spring Experiment Homework of NJU OP Course
+implement an operating system-Experiment Homework of 2026 Spring NJU OP Course
 ## Supported Functions
 - builtin commands: exit, cd, env, env-use, env-exit
 - run external commands: print extra error information
