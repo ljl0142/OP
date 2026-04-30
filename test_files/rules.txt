@@ -1,0 +1,1 @@
+deny:write arg01=1 arg1="hello world"
